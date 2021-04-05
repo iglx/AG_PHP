@@ -1,9 +1,9 @@
-# AlgoritmoGeneticoSimple
-Algoritmo genético simple en PHP
+#Descrição
+Este é um algoritmo genético PHP básico que fiz há algum tempo para apenas brincar com o conceito.
 
-Basado totalmente en el trabajo de Christopher Valles:
-https://github.com/christophervalles/Basic-Genetic-Algorithm
+O objetivo é começar com uma string aleatória e aplicar os operadores genéticos a uma string alvo.
 
-Se modificó para que tomara una cadena binaria, y al final el objetivo fueran 30 1
+A string de destino é definida no arquivo index.php.
 
-Para ejecutarlo basta bajarlo en una carpeta de un servidor local, y ejecutar el index
+#Uso
+Basta abrir uma linha de comando, navegar até a pasta e executar o index.php
